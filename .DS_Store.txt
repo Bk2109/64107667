@@ -1,7 +1,13 @@
 <?php
+<<<<<<< HEAD
 $name = "PARIYAPAT SAITANEE";
 $sid = "64108210";
 echo "Hello ".$name;
+=======
+$name = 'Bilkis Tohead";
+$sid = "64107667";
+echo "hello ".$name;
+>>>>>>> 323d1043b12bf51cec04546f897f4b748f072b32
 echo "ID : ".$sid;
 
 ?>
