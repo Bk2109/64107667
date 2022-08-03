@@ -1,0 +1,7 @@
+<?php
+$name = "PARIYAPAT SAITANEE";
+$sid = "64108210";
+echo "Hello ".$name;
+echo "ID : ".$sid;
+
+?>
