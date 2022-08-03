@@ -1,0 +1,7 @@
+<?php
+$name = 'Bilkis Tohead";
+$sid = "64107667";
+echo "hello ".$name;
+echo "ID : ".$sid;
+
+?>
