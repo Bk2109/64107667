@@ -1,0 +1,4 @@
+<?php
+echo "Hello PARIYAPAT SAITANEE";
+echo "ID : 64108210";
+?>
